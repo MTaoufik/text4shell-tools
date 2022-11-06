@@ -120,7 +120,7 @@ It can also patch the `DnsStringLookup` and `URLStringLookup` classes and disabl
 
 A backup file is generated through the process in the same path with the `.orig.jar` extension. 
 
-##### Generation from Code-Source
+#### Generation from Code-Source
 
 Text4ShellPatch can be edited and compiled with Maven with the simple command:
 ` mvn clean assembly:single `. It will create a `Text4ShellPatch.jar` file in the `target/` folder.
