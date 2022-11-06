@@ -1,6 +1,6 @@
 # commons-text-tools 
 
-### Quick links upd
+### Quick links
 
 Click to find:
 
